@@ -1,0 +1,9 @@
+build/
+.gradle/
+**/gradle/caches/
+**/gradle/wrapper/dists/
+data/
+.idea/
+*.iml
+*.class
+*.log

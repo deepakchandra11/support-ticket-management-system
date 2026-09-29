@@ -1,0 +1,16 @@
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Env
+.env
+.env.local
+backend/gradle/caches/
+
+.gradle/
+**/.gradle/
+build/
+**/build/
